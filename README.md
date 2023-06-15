@@ -1,4 +1,4 @@
-# The-color-game
+# The-Color-Game
 Game made with HTML, CSS and Javascript. It is a Color Guessing Game with the help of RGB colors where you have to guess the right color.
 
 You have to predict the colors that will emerge from the combination of primary colors in this game of color prediction. 
